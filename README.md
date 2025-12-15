@@ -62,15 +62,18 @@ O dashboard final é composto por três painéis principais de análise:
 ### 1. Panorama Global
 Nesta página oferecemos uma visão imediata da poluição em 2019. O mapa central permite identificar geograficamente os maiores emissores, enquanto os KPIs no topo quantificam o volume total de plástico no oceano (aprox. 979 mil toneladas) e o volume de lixo mal gerido.
 O gráfico de barras lateral destaca o "Top 10" países, evidenciando o papel preponderante de nações asiáticas (Filipinas, Índia, Malásia) nas emissões marinhas.
+
 ![Panorama Global](imgs/panorama.png)
 
 ### 2. Evolução e Regiões
 Nesta secção, analisa-se a componente temporal (2000-2019). O gráfico de linhas demonstra que regiões desenvolvidas estabilizaram a má gestão de resíduos, enquanto regiões em desenvolvimento apresentam um crescimento exponencial.
 O gráfico de rosca (Donut) complementa a análise mostrando a quota de responsabilidade de cada continente nas emissões oceânicas.
+
 ![Evolução](imgs/evolucao.png)
 
 ### 3. Detalhe por País
 Utilizando uma Árvore de Decomposição, o utilizador pode explorar os dados em profundidade, isolando um país específico para ver o seu histórico ou comparando valores exatos através de uma tabela detalhada. Esta página permite validar a correlação entre a probabilidade de entrada no oceano e o lixo mal gerido.
+
 ![Detalhe](imgs/detalhe.png)
 
 ## 4. Conclusão
